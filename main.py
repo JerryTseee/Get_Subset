@@ -22,6 +22,8 @@ def findSubset(T, s, k):
     print("not found")
     return
 
+# time complexity is O(n^2)
+
 T = [1,2,3,4,5]
 s = 6
 k = 3
